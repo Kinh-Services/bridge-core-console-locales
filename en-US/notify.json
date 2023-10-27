@@ -1,0 +1,33 @@
+{
+  "dashboard": {
+    "overview": {
+      "fetch_system_info_error": "Error fetching system information"
+    },
+    "node_switcher": {
+      "add_node_success": "Node {{address}} added successfully",
+      "select_node_success": "Node {{address}} selected",
+      "remove_node_error_last_node": "You cannot remove the last node",
+      "remove_node_success": "Node {{address}} removed successfully"
+    },
+    "rules": {
+      "actions_delete_rule_success_title": "Rule deleted",
+      "actions_delete_rule_success_description": "Rule {{name}} deleted successfully",
+      "actions_delete_rule_failed_title": "Error deleting rule",
+      "actions_copy_success": "Copied to clipboard"
+    },
+    "add_rule": {
+      "add_rule_success": "Rule {{name}} added successfully",
+      "add_rule_error": "Error occurred while adding rule"
+    }
+  },
+  "settings": {
+    "general": {
+      "hide_address_toast_description_enabled": "Server address will be hidden in the UI",
+      "hide_address_toast_description_disabled": "Server address will be shown in the UI",
+      "theme_toast_description_light": "Light theme will be used",
+      "theme_toast_description_dark": "Dark theme will be used",
+      "theme_toast_description_system": "Theme will be set based on your system settings",
+      "language_toast_description": "$t(language:{{lang}}.base) will be used"
+    }
+  }
+}
