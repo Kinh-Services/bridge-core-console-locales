@@ -160,11 +160,7 @@
         "no_tls": "不允许TLS",
         "socks": "仅SOCKS",
         "stratum": "仅Stratum"
-      },
-      "ip_white_list_label": "IP白名单",
-      "ip_white_list_description": "只允许指定的IP地址访问目标服务器。",
-      "ip_black_list_label": "IP黑名单",
-      "ip_black_list_description": "禁止指定的IP地址访问目标服务器。"
+      }
     }
   },
   "settings": {

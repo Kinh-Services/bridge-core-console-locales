@@ -165,11 +165,7 @@
         "no_tls": "No TLS",
         "socks": "SOCKS Only",
         "stratum": "Stratum Only"
-      },
-      "ip_white_list_label": "IP White List",
-      "ip_white_list_description": "Only allow the specified IP addresses to access the target server.",
-      "ip_black_list_label": "IP Black List",
-      "ip_black_list_description": "Disallow the specified IP addresses to access the target server."
+      }
     }
   },
   "settings": {
