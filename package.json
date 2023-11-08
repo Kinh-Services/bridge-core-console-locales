@@ -1,7 +1,6 @@
 {
   "name": "@bridge-core/locales",
   "description": "",
-  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
